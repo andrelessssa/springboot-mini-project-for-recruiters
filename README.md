@@ -11,7 +11,7 @@ Este é um projeto simples e funcional criado com **Java + Spring Boot**, desenv
 - 🌐 Spring Web
 - 🗃 Spring Data JPA
 - 🐘 PostgreSQL
-- 📦 Maven
+- 🧪 Gradle (Groovy DSL)
   
 ---
 
